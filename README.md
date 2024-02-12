@@ -1,6 +1,6 @@
 ![logo](https://github.com/omprakashcs01/omprakashcs01/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Om Prakash</h1>
-<h3 align="center">A passionate Mobile app developer from India</h3>
+<h3 align="center">A passionate Mobile App developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakashcs01&label=Profile%20views&color=0e75b6&style=flat" alt="omprakashcs01" /> </p>
 
 - 🔭 I’m currently working on **Onsolve**
